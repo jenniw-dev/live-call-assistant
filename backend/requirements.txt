@@ -1,0 +1,28 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# RAG
+faiss-cpu==1.9.0.post1
+sentence-transformers==3.3.1
+numpy>=1.24.0
+
+# LLM Client
+httpx==0.28.1
+
+# ASR (本地语音转写)
+faster-whisper==1.2.1
+python-multipart>=0.0.9
+
+# Streaming ASR (云端 Paraformer-realtime WebSocket 客户端；
+# uvicorn[standard] 已间接依赖，这里显式声明供 app.asr.streaming 使用)
+websockets>=12.0
+
+# 后端系统音频采集（Windows WASAPI Loopback，捕获通话中客户的声音；
+# 纯 Python/ctypes，Windows 免编译。见 app.asr.capture）
+soundcard>=0.4.3
+
+# Utils
+loguru==0.7.3

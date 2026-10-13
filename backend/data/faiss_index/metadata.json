@@ -1,0 +1,506 @@
+[
+  {
+    "idx": 0,
+    "question": "What plans do you have?",
+    "answer": "We have four plans. Free is for up to 5 people. Team is $9 per user per month on annual billing, or $11 month to month. Business is $19 per user per month annual, or $23 monthly, and adds SSO, audit logs and phone support. Enterprise is custom pricing for larger companies that need things like EU data residency or SCIM.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P01"
+  },
+  {
+    "idx": 1,
+    "question": "Which plan do most teams pick?",
+    "answer": "Most teams of 10 to 50 people start on Team. They usually move to Business when IT asks for SSO or an audit log.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P01-followup"
+  },
+  {
+    "idx": 2,
+    "question": "How much does the Team plan cost?",
+    "answer": "Team is $9 per user per month if you pay yearly, or $11 per user per month if you pay monthly. There's no minimum number of seats.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P02"
+  },
+  {
+    "idx": 3,
+    "question": "How much does the Business plan cost?",
+    "answer": "Business is $19 per user per month on annual billing, or $23 per user per month on monthly billing.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P03"
+  },
+  {
+    "idx": 4,
+    "question": "What's the difference between Team and Business, and what does Business include that Team doesn't?",
+    "answer": "Team gives you unlimited projects, 50 GB of storage per workspace, guests, integrations and the API. Business adds SAML single sign-on, an audit log, custom admin roles, 500 GB of storage, a 99.9% uptime SLA and phone support.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P04"
+  },
+  {
+    "idx": 5,
+    "question": "Is SSO available on Team?",
+    "answer": "No, SSO starts on Business. Two-factor authentication is available on every plan, including Free.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P04-followup"
+  },
+  {
+    "idx": 6,
+    "question": "Is there a free plan or free version, and what's included?",
+    "answer": "Free covers up to 5 members, 3 active projects and 1 GB of storage. You get the board, list and calendar views, plus the mobile apps. Integrations, guests and the API are on paid plans.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P05"
+  },
+  {
+    "idx": 7,
+    "question": "Do you have a discount for annual billing?",
+    "answer": "Yes. Paying yearly works out about 18 percent cheaper than paying month to month. For example, Team is $9 per user per month on annual versus $11 on monthly.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P06"
+  },
+  {
+    "idx": 8,
+    "question": "Do you offer discounts for nonprofits or schools?",
+    "answer": "Yes. Registered nonprofits and accredited schools get 50 percent off Team or Business. The customer applies through the discount form in Settings, and it usually takes 2 to 3 business days to approve.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P07"
+  },
+  {
+    "idx": 9,
+    "question": "Can you give me another discount on top of that?",
+    "answer": "Agents can't stack or promise extra discounts. If the customer is asking for more, offer to connect them with the sales team.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P07-followup"
+  },
+  {
+    "idx": 10,
+    "question": "How does Enterprise pricing work?",
+    "answer": "Enterprise is quoted by the sales team. It usually starts at 100 seats and includes everything in Business plus SCIM provisioning, EU data residency, a dedicated customer success manager and a custom contract.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P08"
+  },
+  {
+    "idx": 11,
+    "question": "What happens if I add more users in the middle of my billing cycle?",
+    "answer": "New seats are charged right away, prorated for the time left in your billing period. So if you add someone halfway through the year, you pay for half a year for that seat.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P09"
+  },
+  {
+    "idx": 12,
+    "question": "What happens if I remove users?",
+    "answer": "Removing a user frees the seat immediately, but we don't refund the unused time. The lower seat count applies from your next renewal. If you add someone back before then, you can reuse the paid seat at no extra cost.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P10"
+  },
+  {
+    "idx": 13,
+    "question": "Do guests count as paid seats?",
+    "answer": "No. Guests are free on Team and Business. Each workspace can invite up to 5 guests per paid member. Guests can only see the projects they're invited to.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P11"
+  },
+  {
+    "idx": 14,
+    "question": "Which currencies can I pay in?",
+    "answer": "We bill in US dollars, euros or British pounds. The currency is set when you first subscribe and can't be changed on the same subscription.",
+    "file": "01-plans-and-pricing.md",
+    "section": "Plans and Pricing",
+    "id": "P12"
+  },
+  {
+    "idx": 15,
+    "question": "Do you offer refunds?",
+    "answer": "On annual plans, you can get a full refund within 30 days of the first purchase or a renewal. After 30 days, we can turn off auto-renew, but we don't refund the rest of the year. Monthly plans aren't refunded for partial months; you keep access until the end of the month you've paid for.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B01"
+  },
+  {
+    "idx": 16,
+    "question": "How long does a refund take?",
+    "answer": "Once approved, refunds go back to the original card in 5 to 10 business days. The timing after that depends on the customer's bank.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B01-followup"
+  },
+  {
+    "idx": 17,
+    "question": "Why was I charged twice?",
+    "answer": "Most of the time, one of the two is a pending authorization from a card check, not a real charge. It drops off on its own within 3 to 5 business days. If both charges show as completed on the card statement, collect the two transaction dates and amounts and escalate to billing. Don't promise a refund before billing confirms.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B02"
+  },
+  {
+    "idx": 18,
+    "question": "Why is my bill higher than last month?",
+    "answer": "The usual reasons are new seats added during the month, which are charged prorated, or a switch from annual to monthly pricing. The invoice in Settings, Billing, Invoices lists every seat change with its date.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B03"
+  },
+  {
+    "idx": 19,
+    "question": "How can I pay?",
+    "answer": "We accept Visa, Mastercard and American Express on all plans. Annual plans over $3,000 can also pay by invoice with bank transfer, with 30-day payment terms.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B04"
+  },
+  {
+    "idx": 20,
+    "question": "Where can I find my invoices?",
+    "answer": "Workspace owners and billing admins can download every invoice as a PDF from Settings, Billing, Invoices. Invoices are also emailed to the billing contact each time we charge.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B05"
+  },
+  {
+    "idx": 21,
+    "question": "Can I change the company name or VAT number on my invoice?",
+    "answer": "Yes. Update it in Settings, Billing, Billing details. Changes apply to future invoices. For a past invoice to be reissued, escalate to billing with the invoice number.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B06"
+  },
+  {
+    "idx": 22,
+    "question": "My card was declined. What happens now?",
+    "answer": "We retry the card three times over 7 days and email the billing contact each time. The workspace stays fully active during that time. If all retries fail, the workspace switches to read-only until a working card is added. Nothing is deleted.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B07"
+  },
+  {
+    "idx": 23,
+    "question": "Can I switch from monthly to annual billing?",
+    "answer": "Yes, anytime from Settings, Billing. We charge the annual price right away and credit the unused part of the current month.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B08"
+  },
+  {
+    "idx": 24,
+    "question": "Can I switch from annual to monthly?",
+    "answer": "Yes, but the change happens at the end of the current annual term, not immediately.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B08-followup"
+  },
+  {
+    "idx": 25,
+    "question": "Do you charge sales tax or VAT?",
+    "answer": "We charge sales tax or VAT where the law requires it, based on the billing address. Businesses in the EU and UK can add a valid VAT number to have VAT reverse-charged.",
+    "file": "02-billing-and-refunds.md",
+    "section": "Billing and Refunds",
+    "id": "B09"
+  },
+  {
+    "idx": 26,
+    "question": "Do you support single sign-on?",
+    "answer": "Yes, on Business and Enterprise. We support SAML 2.0 with Okta, Microsoft Entra ID (formerly Azure AD), Google Workspace and OneLogin. An admin sets it up in Settings, Security, Single sign-on.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S01"
+  },
+  {
+    "idx": 27,
+    "question": "Can we force everyone to use SSO?",
+    "answer": "Yes. Once SSO is tested, admins can turn on \"Require SSO\", and password logins are switched off for everyone except the workspace owner as a backup.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S01-followup"
+  },
+  {
+    "idx": 28,
+    "question": "Do you support SCIM user provisioning?",
+    "answer": "SCIM is included on Enterprise only. It works with Okta and Microsoft Entra ID to create and remove users automatically.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S02"
+  },
+  {
+    "idx": 29,
+    "question": "Do you have two-factor authentication?",
+    "answer": "Yes, on every plan including Free. Users can turn it on with an authenticator app. On Business and Enterprise, admins can require it for the whole workspace.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S03"
+  },
+  {
+    "idx": 30,
+    "question": "Are you SOC 2 compliant?",
+    "answer": "Yes. Pebblework has a SOC 2 Type II report, renewed every year. Customers on Business or Enterprise can request it through the trust portal after signing an NDA.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S04"
+  },
+  {
+    "idx": 31,
+    "question": "Are you GDPR compliant?",
+    "answer": "Yes. We act as a data processor under GDPR and offer a standard Data Processing Agreement that customers can sign from Settings, Legal.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S05"
+  },
+  {
+    "idx": 32,
+    "question": "Where is our data stored?",
+    "answer": "By default, data is stored on AWS in the United States, in us-east-1. Enterprise customers can choose EU hosting in Frankfurt.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S06"
+  },
+  {
+    "idx": 33,
+    "question": "Can a Business customer move their data to the EU?",
+    "answer": "Not on Business. EU data residency is an Enterprise feature, so offer to connect them with sales.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S06-followup"
+  },
+  {
+    "idx": 34,
+    "question": "Is our data encrypted?",
+    "answer": "Yes. Data is encrypted at rest with AES-256 and in transit with TLS 1.2 or higher.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S07"
+  },
+  {
+    "idx": 35,
+    "question": "Can I export my data?",
+    "answer": "Yes, on every plan including Free. Admins can export all projects, tasks and comments as CSV or JSON from Settings, Data, Export. Large workspaces get an email with a download link, usually within an hour.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S08"
+  },
+  {
+    "idx": 36,
+    "question": "What happens to deleted tasks or projects?",
+    "answer": "Deleted items stay in the trash for 30 days and can be restored by anyone who had access. After 30 days they're permanently deleted.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S09"
+  },
+  {
+    "idx": 37,
+    "question": "What happens to our data if we cancel?",
+    "answer": "After cancellation, the workspace becomes read-only for 90 days so you can export everything. After 90 days, the data is permanently deleted. If you need it deleted sooner, the workspace owner can request deletion from Settings, Data.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S10"
+  },
+  {
+    "idx": 38,
+    "question": "Can you install Pebblework on our own servers?",
+    "answer": "No. Pebblework is cloud-only; there's no on-premise or self-hosted version.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S11"
+  },
+  {
+    "idx": 39,
+    "question": "How do I transfer workspace ownership?",
+    "answer": "The current owner can transfer it in Settings, Members, by choosing a new owner who's already an admin. If the owner has left the company, an admin needs to contact support from a company email address, and we verify the request before transferring.",
+    "file": "03-account-security-and-data.md",
+    "section": "Account, Security and Data",
+    "id": "S12"
+  },
+  {
+    "idx": 40,
+    "question": "What integrations do you have?",
+    "answer": "Paid plans include Slack, Microsoft Teams, Google Calendar, Outlook Calendar, GitHub, GitLab and Zapier. Free workspaces don't have integrations.",
+    "file": "04-integrations-and-api.md",
+    "section": "Integrations and API",
+    "id": "I01"
+  },
+  {
+    "idx": 41,
+    "question": "Do you have an API?",
+    "answer": "Yes. There's a REST API on Team, Business and Enterprise. Any member can create a personal API key in Profile, API keys. The limit is 100 requests per minute per key.",
+    "file": "04-integrations-and-api.md",
+    "section": "Integrations and API",
+    "id": "I02"
+  },
+  {
+    "idx": 42,
+    "question": "Can we get a higher rate limit?",
+    "answer": "Enterprise customers can ask for a higher limit through their account manager. For Team or Business, the limit is fixed at 100 requests per minute.",
+    "file": "04-integrations-and-api.md",
+    "section": "Integrations and API",
+    "id": "I02-followup"
+  },
+  {
+    "idx": 43,
+    "question": "Do you support webhooks?",
+    "answer": "Yes, on Team and above. Admins can add webhooks in Settings, Integrations, Webhooks, for events like task created, task completed and comment added.",
+    "file": "04-integrations-and-api.md",
+    "section": "Integrations and API",
+    "id": "I03"
+  },
+  {
+    "idx": 44,
+    "question": "How do I connect Slack?",
+    "answer": "An admin goes to Settings, Integrations, Slack and clicks Connect. After approving in Slack, each project can choose a Slack channel for its updates.",
+    "file": "04-integrations-and-api.md",
+    "section": "Integrations and API",
+    "id": "I04"
+  },
+  {
+    "idx": 45,
+    "question": "Can I import from Trello, Asana or a spreadsheet?",
+    "answer": "Yes. There are one-click importers for Trello and Asana, and a CSV importer for spreadsheets. CSV files must be UTF-8, under 10 MB and up to 5,000 rows per import.",
+    "file": "04-integrations-and-api.md",
+    "section": "Integrations and API",
+    "id": "I05"
+  },
+  {
+    "idx": 46,
+    "question": "Do you have mobile apps?",
+    "answer": "Yes, for iPhone and Android, free on every plan. They support tasks, comments, notifications and file uploads, but workspace settings and billing are web-only.",
+    "file": "04-integrations-and-api.md",
+    "section": "Integrations and API",
+    "id": "I06"
+  },
+  {
+    "idx": 47,
+    "question": "I can't log in. What should I do?",
+    "answer": "First check if their workspace uses SSO. If it does, they need to use \"Log in with SSO\" and their company email, and their IT team controls access. If not, have them reset their password from the login page. If they're stuck in a login loop, ask them to clear cookies for pebblework.app or try a private window.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T01"
+  },
+  {
+    "idx": 48,
+    "question": "My teammate didn't get the invite email.",
+    "answer": "Ask them to check spam and any \"Promotions\" tab first. Invite emails come from no-reply@pebblework.app, so their IT team may need to allow that address. An admin can also copy the invite link from Settings, Members, and send it directly. Invites expire after 7 days.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T02"
+  },
+  {
+    "idx": 49,
+    "question": "Slack notifications stopped working.",
+    "answer": "The most common cause is that the person who connected Slack left the company or lost admin rights in Slack. Have an admin reconnect it in Settings, Integrations, Slack. Then check that the project still has a channel selected.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T03"
+  },
+  {
+    "idx": 50,
+    "question": "Google Calendar isn't syncing.",
+    "answer": "Have the user disconnect and reconnect Google Calendar in Profile, Integrations. Sync only includes tasks that have a due date and are assigned to them. Changes can take up to 15 minutes to appear.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T04"
+  },
+  {
+    "idx": 51,
+    "question": "My CSV import failed.",
+    "answer": "Check three things: the file is saved as UTF-8, it's under 10 MB, and it has 5,000 rows or fewer. The first row must be column headers. If it still fails, ask the customer to send the file to support so the import team can look at it.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T05"
+  },
+  {
+    "idx": 52,
+    "question": "Pebblework is slow for me.",
+    "answer": "Ask if it's slow everywhere or in one big project. For one big project, switching from Board to List view usually helps, and archiving finished tasks reduces load. If it's slow everywhere, check status.pebblework.app for an incident, then ask them to try another browser to rule out extensions.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T06"
+  },
+  {
+    "idx": 53,
+    "question": "I'm not getting push notifications on my phone.",
+    "answer": "Ask them to check that notifications are allowed for Pebblework in the phone's settings, and that \"Push\" is on in Profile, Notifications in the app. Logging out and back in on the phone refreshes the device registration.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T07"
+  },
+  {
+    "idx": 54,
+    "question": "Is Pebblework down right now?",
+    "answer": "Check status.pebblework.app. It shows live status and any ongoing incident. If there's an incident, share the status page link and say updates are posted there every 30 minutes.",
+    "file": "05-troubleshooting.md",
+    "section": "Troubleshooting",
+    "id": "T08"
+  },
+  {
+    "idx": 55,
+    "question": "How do I cancel my subscription or account?",
+    "answer": "The workspace owner can cancel in Settings, Billing, Cancel subscription. The plan stays active until the end of the current billing period, then the workspace moves to read-only for 90 days.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C01"
+  },
+  {
+    "idx": 56,
+    "question": "Can I pause my subscription instead?",
+    "answer": "We don't have a pause option. The closest thing is downgrading to Free, which keeps the data but limits the workspace to 5 members and 3 active projects.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C01-followup"
+  },
+  {
+    "idx": 57,
+    "question": "Can you give me a retention discount or lower price to stay?",
+    "answer": "Agents can't offer retention discounts. If the customer is thinking about cancelling because of price, acknowledge it and offer to connect them with their account manager, who can review options.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C02"
+  },
+  {
+    "idx": 58,
+    "question": "Can I downgrade from Business to Team?",
+    "answer": "Yes. The downgrade takes effect at the next renewal. Business features like SSO and the audit log switch off at that point, so admins should make sure everyone has a password or another way to log in first.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C03"
+  },
+  {
+    "idx": 59,
+    "question": "Is there a free trial?",
+    "answer": "Yes. New workspaces get a 14-day trial of Business. No credit card is needed. When the trial ends, the workspace moves to Free unless someone picks a paid plan.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C04"
+  },
+  {
+    "idx": 60,
+    "question": "Can I extend my trial?",
+    "answer": "Support can extend a trial once by 7 days. Anything longer needs approval from sales.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C04-followup"
+  },
+  {
+    "idx": 61,
+    "question": "What are your support hours?",
+    "answer": "Chat and email support are available 24 hours a day, Monday to Friday, on every paid plan. Phone support is for Business and Enterprise, 8 a.m. to 8 p.m. in the customer's region on weekdays. Free workspaces get email support and the help center.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C05"
+  },
+  {
+    "idx": 62,
+    "question": "How fast do you reply to support tickets?",
+    "answer": "The first-response target is 4 business hours on Business and Enterprise, 1 business day on Team, and 2 business days on Free. Urgent outages for Enterprise are answered within 1 hour, 24/7.",
+    "file": "06-plan-changes-and-support.md",
+    "section": "Plan Changes, Cancellation and Support",
+    "id": "C06"
+  }
+]
